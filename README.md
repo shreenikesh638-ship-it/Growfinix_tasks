@@ -9,7 +9,7 @@ This repository contains the completed deliverables for the Growfinix Technology
 ## Task 1: Real Estate Interactive Pricing Dashboard
 * **Tool:** Tableau Public
 * **Dataset:** Real Estate Pricing Data (Kaggle)
-* **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/) *(replace with your link)*
+* **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Growfinix-CustomerChurnAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Key Features:
 * Dynamic map visualization mapping property listings across target locations.
@@ -41,7 +41,7 @@ This repository contains the completed deliverables for the Growfinix Technology
 ## Task 4: Telco Customer Churn Analysis & Retention Strategy
 * **Tool:** Tableau Public
 * **Dataset:** Telco Customer Churn (Kaggle)
-* **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/) *(replace with your link)*
+* **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Growfinix-InteractiveRealEstatePricingDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Key Features:
 * Executive scorecard tracking `Overall Churn Rate` via custom calculated fields.
